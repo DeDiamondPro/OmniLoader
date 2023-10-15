@@ -7,7 +7,7 @@
   "authors": [
     "DeDiamondPro"
   ],
-  "license": "All-Rights-Reserved",
+  "license": "MIT",
   "entrypoints": {
     "preLaunch": [
       "dev.dediamondpro.omniloader0.OmniLoader"
