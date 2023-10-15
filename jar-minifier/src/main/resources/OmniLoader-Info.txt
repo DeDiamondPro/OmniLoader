@@ -1,0 +1,6 @@
+As you have probably noticed the structure of this mod is a little strange.
+This is because this mod uses OmniLoader, OmniLoader is a library that allows mods
+to selectively load different jars based on what Minecraft version is being loaded.
+To further optimize jar size, this mod is split over multiple jars where some jars are used
+on multiple Minecraft versions, while some are only used on one. To see what jars are loaded
+when, please see the omniloader.json file.

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "placeholder-id",
+  "version": "placeholder-version",
+  "provides": [],
+  "custom": {
+    "modmenu": {
+      "badges": [
+        "library"
+      ],
+      "parent": {}
+    },
+    "omniloader0": true
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/omniloader.jar"
+    }
+  ]
+}

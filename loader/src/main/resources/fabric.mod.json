@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "omniloader0",
+  "name": "OmniLoader",
+  "version": "${version}",
+  "description": "",
+  "authors": [
+    "DeDiamondPro"
+  ],
+  "license": "All-Rights-Reserved",
+  "entrypoints": {
+    "preLaunch": [
+      "dev.dediamondpro.omniloader0.OmniLoader"
+    ]
+  },
+  "custom": {
+    "modmenu": {
+      "badges": ["library"]
+    }
+  }
+}
